@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xhSWUwvlviWl/7VDhjYwsWQrWiRVTYlyZOo3e5875ek=",
+  "Hash": "ysI1PknnOHd7I3dv5YsWiX4JfrY/1N2DLk/tM2izWdw=",
   "Source": "MVCproject",
   "BasePath": "_content/MVCproject",
   "Mode": "Default",
@@ -16,44 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\elifv\\Desktop\\MVCproject\\MVCproject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVCproject.styles.css",
-      "SourceId": "MVCproject",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\elifv\\Desktop\\MVCproject\\MVCproject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/MVCproject",
-      "RelativePath": "MVCproject.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\elifv\\Desktop\\MVCproject\\MVCproject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVCproject.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\elifv\\Desktop\\MVCproject\\MVCproject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCproject.bundle.scp.css",
-      "SourceId": "MVCproject",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\elifv\\Desktop\\MVCproject\\MVCproject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/MVCproject",
-      "RelativePath": "MVCproject.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\elifv\\Desktop\\MVCproject\\MVCproject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCproject.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\elifv\\Desktop\\MVCproject\\MVCproject\\wwwroot\\css\\site.css",
       "SourceId": "MVCproject",

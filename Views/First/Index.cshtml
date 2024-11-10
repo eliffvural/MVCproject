@@ -1,0 +1,26 @@
+@{
+    Layout=null;
+}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Index</title>
+    </head>
+
+    <body>
+        <div>
+            <p>Name: @ViewData["name"]</p>
+            <p>Age: @ViewData["age"]</p>
+            <p>
+                Favourite Colors: 
+                <ul>
+                    @foreach (var color in (List<string>)ViewData["colors"]){
+                        <li> @color</li>
+                        }
+                </ul>
+            </p>
+        </div>
+    </body>
+</html>

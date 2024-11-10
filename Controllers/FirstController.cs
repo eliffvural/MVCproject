@@ -1,5 +1,14 @@
-//sayhello isimli bir action ekleyelim:
+using Microsoft.AspNetCore.Mvc;
 
-public ActionResult SayHello(){
-    return View();
+namespace MVCproject.Controllers
+{
+    public class FirstController : Controller
+    {
+
+        //sayhello adinda bir action oluşturalim:
+        public IActionResult SayHello()
+        {
+            return View("HelloView");
+        }
+    }
 }

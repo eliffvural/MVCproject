@@ -20,11 +20,10 @@ C:\Users\elifv\Desktop\MVCproject\MVCproject\obj\Debug\net8.0\staticwebassets\ms
 C:\Users\elifv\Desktop\MVCproject\MVCproject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVCproject.props
 C:\Users\elifv\Desktop\MVCproject\MVCproject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVCproject.props
 C:\Users\elifv\Desktop\MVCproject\MVCproject\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\elifv\Desktop\MVCproject\MVCproject\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\elifv\Desktop\MVCproject\MVCproject\obj\Debug\net8.0\scopedcss\bundle\MVCproject.styles.css
-C:\Users\elifv\Desktop\MVCproject\MVCproject\obj\Debug\net8.0\scopedcss\projectbundle\MVCproject.bundle.scp.css
 C:\Users\elifv\Desktop\MVCproject\MVCproject\obj\Debug\net8.0\MVCproject.dll
 C:\Users\elifv\Desktop\MVCproject\MVCproject\obj\Debug\net8.0\refint\MVCproject.dll
 C:\Users\elifv\Desktop\MVCproject\MVCproject\obj\Debug\net8.0\MVCproject.pdb
 C:\Users\elifv\Desktop\MVCproject\MVCproject\obj\Debug\net8.0\MVCproject.genruntimeconfig.cache
 C:\Users\elifv\Desktop\MVCproject\MVCproject\obj\Debug\net8.0\ref\MVCproject.dll
+C:\Users\elifv\Desktop\MVCproject\MVCproject\obj\Debug\net8.0\MVCproject.sourcelink.json
